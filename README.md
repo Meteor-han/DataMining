@@ -1,2 +1,4 @@
 # DataMining
-Clustering results demo
+Clustering results demo.
+
+The last number denotes the number of clusters.
